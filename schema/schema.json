@@ -1,0 +1,13 @@
+{
+    "numeric": [
+        "age",
+        "quantity",
+        "price_unit",
+        "total_amount"
+    ],
+    "categorical": [
+        "gender",
+        "product_cat"
+    ],
+    "target": "high_value"
+}
